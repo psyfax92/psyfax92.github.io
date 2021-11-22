@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 1rem;
+}
+
+#paper{
+    background-color: aqua;
+    box-shadow: 5px 5px 5px black;
+    margin: 1rem;
+    padding: 1rem;
+}
